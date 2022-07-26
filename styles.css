@@ -1,0 +1,177 @@
+body {
+    margin: 0;
+    text-align: center;
+    font-family: 'Fira Sans', sans-serif;
+    font-size: larger;
+    color: seagreen;
+}
+
+.skill-row {
+    width: 60%;
+    margin: 100px auto 100px auto;
+    text-align: left;
+    line-height: 2;
+}
+
+h1 {
+    color: navy;
+    margin: 50px auto 0 auto;
+    font-family: 'Sacramento', cursive;
+    font-size: 4.5rem;
+}
+
+h2 {
+    color: navy;
+    font-family: 'Fira Sans', sans-serif;
+    font-size: xx-large;
+}
+
+h3 {
+    color: navy;
+    font-family: 'Fira Sans', sans-serif;
+    font-size: 2.5rem;
+}
+h4 {
+    color: navy;
+    font-family: 'Fira Sans', sans-serif;
+    font-size: 1.5rem;
+}
+
+.top-container{
+    background-color: cyan;
+    padding: 90px;
+}
+
+.pro{
+    text-decoration: underline;
+}
+
+.profile_pic {
+    height: 250px;
+    width: 250px;
+    border-radius: 100%;
+    padding: 1cm;
+}
+
+.intro {
+    width: 30%;
+    margin: auto;
+}
+
+hr {
+    width: 25%;
+    border: dotted rgb(6, 18, 199) 7px;
+    border-bottom: 0;
+}
+
+p {
+    line-height: 2;
+}
+
+.skill_pic {
+    height: 240px;
+    width: 220px;
+    float: left;
+    margin-right: 30px;
+}
+
+.Web_development {
+    width: 200px;
+    height: 200px;
+    float: right;
+    margin-left: 30px;
+}
+
+.bike_pic {
+    width: 25%;
+    float: left;
+    margin-right: 30px;
+}
+
+.middle-container{
+    width: 100px 0;
+    
+}
+
+.bottom-container{
+    background-color: cyan;
+    padding: 50px 0 20px;
+}
+
+a {
+    color: rgb(127, 208, 255);
+    margin: 50px 20px;
+}
+
+a:hover {
+    color: #ffffff;
+}
+
+.mountain-img {
+    height: 400px;
+    width: 1200px;
+}
+
+.right-cloud-img {
+    height: 140px;
+    width: 300px;
+    background-color: cyan;
+    position: absolute;
+    right: 10px;
+    top: 100px;
+    padding: 90px;
+}
+
+.left-cloud-img {
+    height: 140px;
+    width: 300px;
+    background-color: cyan;
+    position: absolute;
+    top: 100px;
+    left: 0.3cm;
+    padding: 90px;
+}
+
+.tt-cloud-img {
+    height: 140px;
+    width: 300px;
+    background-color: cyan;
+}
+
+.contact-me {
+    width: 50%;
+    margin: 20px auto 20px auto;
+}
+
+.btn {
+    background: #345ad9;
+    background-image: -webkit-linear-gradient(top, #345ad9, #2bb878);
+    background-image: -moz-linear-gradient(top, #345ad9, #2bb878);
+    background-image: -ms-linear-gradient(top, #345ad9, #2bb878);
+    background-image: -o-linear-gradient(top, #345ad9, #2bb878);
+    background-image: linear-gradient(to bottom, #345ad9, #2bb878);
+    -webkit-border-radius: 6;
+    -moz-border-radius: 6;
+    border-radius: 6px;
+    font-family: 'Fira Sans', sans-serif;
+    color: #ffffff;
+    font-size: 20px;
+    padding: 10px 20px 10px 20px;
+    text-decoration: none;
+  }
+  
+  .btn:hover {
+    background: #be3cfa;
+    background-image: -webkit-linear-gradient(top, #be3cfa, #9ad934);
+    background-image: -moz-linear-gradient(top, #be3cfa, #9ad934);
+    background-image: -ms-linear-gradient(top, #be3cfa, #9ad934);
+    background-image: -o-linear-gradient(top, #be3cfa, #9ad934);
+    background-image: linear-gradient(to bottom, #be3cfa, #9ad934);
+    text-decoration: none;
+  }
+
+.copyright {
+    color: #ffffff;
+    font-size: 0.75rem;
+    padding: 20px 0;
+}
